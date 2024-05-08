@@ -1,4 +1,4 @@
-# Trabalhando com Moedas
+# Trabalhando com Arrays
 
 ## 📚 Sobre o Projeto
 
